@@ -1,2 +1,2 @@
-# algoritmos-grupal1
-This project is divided into a lot of code
+# Algoritmos - Entrega grupal
+This project is divided into a lot of code.
