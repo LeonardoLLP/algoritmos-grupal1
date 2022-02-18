@@ -27,3 +27,15 @@ sucesor_dia(d: DÍA): DÍA
 
 fin sucesor_día
  """
+
+# Aquí está la forma más elegante de hacerlo con código
+
+semana = ["lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo"]
+def sucesor_dia(d: str):
+    if d.casefold() not in semana:
+        raise ValueError("d must be a valid day of the week")
+
+    index = semana.index(d)
+    return semana[(index + 1) % 7]
+
+print(sucesor_dia("martes"))
