@@ -1,2 +1,7 @@
 # Algoritmos - Entrega grupal
-This project is divided into a lot of code.
+
+[Dirección del repositorio](https://github.com/LeonardoLLP/algoritmos-grupal1)  
+[Leoanardo Luque Paganelli](https://github.com/LeonardoLLP)  
+[Alejandro Iglesias González](https://github.com/AlejandroIlgesias)  
+
+Cada ejercicio ...
