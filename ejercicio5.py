@@ -17,8 +17,6 @@ poscondición
         Resultado = 0.10 * p
     si no si n = 3
         Resultado = 0.15 * p
-    si no si n = 4
-        Resultado = 0.18 * p
     si no
         Resultado = (0.18 + (n - 4)/100) * p
 
