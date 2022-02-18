@@ -9,6 +9,10 @@ Entrada:
 
 Salida: DECIMAL
 
+Precondición
+    a, d, n >= 0
+    damage >= 0
+
 Variables
     p: DECIMAL <-- 0  # Prima
 
